@@ -43,12 +43,12 @@ A positive gap means the farmer needs to add that nutrient. A negative gap means
 | Gap calculation | Apply the agronomic formula to the predicted ppm and bulk density | Connects model output to the scored decision |
 
 ## Results & impact
-| | Score A | Score B |
-|---|---|---|
-| Benchmark RMSE | 1057.36 | 1131.62 |
-| Winning RMSE | 976.05 | 1055.17 |
+| | RMSE |
+|---|---|
+| Benchmark | 1131.62 |
+| Winning solution | 1055.17 |
 
-(The two columns are the two leaderboard evaluations.) The winning solution took a "hundred heads are better than one" approach, an ensemble of many models, written up in the link above.
+The winning solution took a "hundred heads are better than one" approach, an ensemble of many models, written up in the link above.
 
 ## Repo contents
 ```
