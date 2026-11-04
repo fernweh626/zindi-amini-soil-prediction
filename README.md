@@ -29,8 +29,8 @@ A positive gap means the farmer needs to add that nutrient. A negative gap means
 
 ## My contribution
 - Partner management for Amini across 5 challenges, including this one
-- **Data sourcing:** pulled and assembled **7 environmental data products** for the relevant years and farm locations, giving participants spatial and environmental features alongside the soil measurements
-- Challenge design: scoped the task and the evaluation metric, and defined the gap calculation
+- **Data sourcing:** pulled and assembled **8 Earth Observation data products** for the relevant years and farm locations, giving participants spatial and environmental features alongside the soil measurements: Sentinel-1 (radar), Sentinel-2 (optical), Landsat 8, and five MODIS products (MOD09GA surface reflectance, MCD43A4 nadir-adjusted reflectance, MOD13Q1 vegetation indices, MOD11A1 land surface temperature, MOD16A2 evapotranspiration)
+- Challenge design: scoped the task and the evaluation metric, and worked with a soil scientist, who defined the nutrient-gap calculation
 - Wrote the starter notebook
 - Published the winning solution so the approach is shared with the community
 
