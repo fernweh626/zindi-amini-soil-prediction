@@ -48,6 +48,8 @@ A positive gap means the farmer needs to add that nutrient. A negative gap means
 | Benchmark | 1131.62 |
 | Winning solution | 1055.17 |
 
+**In the context of the partnership:** the Amini partnership report describes this challenge as "mind-bending", yet participants took it on and it drew high participation. Across the 5 Amini challenges (Feb 2024 – Jul 2025) the partnership reached 3,367 users in 113 countries (42 African) with 19,766 submissions. Amini became a known name on Zindi for engaging challenges.
+
 The winning solution took a "hundred heads are better than one" approach, an ensemble of many models, written up in the link above.
 
 ## Repo contents
